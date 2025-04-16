@@ -1,0 +1,3 @@
+FROM docker.io/alpine
+MAINTAINER Mayank_Sancheti
+CMD echo "Thank you for using my custom link !!!" && sh
